@@ -39,11 +39,7 @@ group :test do
   gem 'shoulda-matchers', '~> 2.8.0'
 end
 
-# group :production do
-#   gem 'pg'
-# end
-
-# ruby "2.2.2"
+ruby "2.0.0"
 
 
 
