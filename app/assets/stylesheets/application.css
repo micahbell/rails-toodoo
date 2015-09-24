@@ -45,8 +45,8 @@
    display: block;
    width: auto;
    padding: 8px 10px;
-   background: #eee;
-   color: #aaa;
+   background: #666;
+   color: #fff;
  }
 
  div.nav ul li a:hover {
